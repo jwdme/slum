@@ -1,0 +1,13 @@
+{
+    "name": "jared/slum",
+    "description": "slim + phpunit",
+    "require": {
+        "slim/slim": "2.*"
+    },
+    "authors": [
+        {
+            "name": "Jared De Blander",
+            "email": "jared@deblander.org"
+        }
+    ]
+}
