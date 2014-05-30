@@ -2,7 +2,8 @@
     "name": "jared/slum",
     "description": "slim + phpunit",
     "require": {
-        "slim/slim": "2.*"
+        "slim/slim": "2.*",
+        "phpunit/phpunit": "4.*"
     },
     "authors": [
         {
